@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://LeonWebSolution.githun.io/Portfolio-1",
+  "homepage": "https://LeonWebSolution.github.io/Portfolio-1",
   "scripts": {
-    "deploy": "gh-pages -D yogacamp"
+    "deploy": "gh-pages -d yogacamp"
   },
   "keywords": [],
   "author": "",
