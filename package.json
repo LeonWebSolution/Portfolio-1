@@ -1,0 +1,16 @@
+{
+  "name": "yoga-camp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://LeonWebSolution.githun.io/Portfolio-1",
+  "scripts": {
+    "deploy" ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
