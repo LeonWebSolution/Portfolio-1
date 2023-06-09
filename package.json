@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://LeonWebSolution.githun.io/Portfolio-1",
   "scripts": {
-    "deploy" ""
+    "deploy": "gh-pages -D yogacamp"
   },
   "keywords": [],
   "author": "",
